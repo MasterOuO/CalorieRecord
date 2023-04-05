@@ -1,0 +1,2 @@
+rootProject.name='Lab200601_DB'
+include ':app'

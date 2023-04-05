@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="資料查詢"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_help"
+        android:title="消耗熱量"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_about"
+        android:title="食物熱量"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_gg"
+        android:title="健康葛格"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_ga"
+        android:title="營養師品萱"
+        app:showAsAction="never"/>
+
+</menu>
