@@ -14,5 +14,5 @@
 紀錄表的紀錄可以做修改和刪除，假設一週為一輪，紀錄你消耗及增加的熱量總量完畢後，可將這周的資料都刪除後，再加入下週熱量紀錄。  
 <img src="https://github.com/MasterOuO/CalorieRecord/blob/master/show/Screenshot_20230405_192606.png" width="300px">
 ### 輔助功能
-輔助功能會為你導入其他頁面進行熱量介紹，如果不知道運動消耗或進食增加多少熱量，也可以由此功能來計算當前為多少大卡
+輔助功能會為你導入其他頁面進行熱量介紹，如果不知道運動消耗或進食增加多少熱量，也可以由此功能來計算當前為多少大卡  
 <img src="https://github.com/MasterOuO/CalorieRecord/blob/master/show/Screenshot_20230405_192245.png" width="300px">  
